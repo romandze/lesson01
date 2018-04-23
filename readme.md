@@ -7,7 +7,7 @@ Search and count verbs in your project.
 ```python
 
 import os, collections
-from verbcounter import get_top_verbs_in_path
+from verbscounter import get_top_verbs_in_path
 
 words = []
 projects = [
