@@ -10,7 +10,7 @@ setup(
     author_email='ivastapas@gmail.com',
     keywords=['verbs'],
     install_requires=[
-        'os', 'nltk', 'ast', 'ast', 'collections', 'logging'
+        'nltk'
     ],
-    url='https://github.com/romandze/verbscounter'
+    url='https://github.com/romandze/lesson01'
 )
